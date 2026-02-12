@@ -6,17 +6,17 @@
 Identificación de perfiles financieros ocultos
 
 ## Problema:​
-Agrupar clientes por riesgos.​
-Identificar patrones de comportamiento crediticio
+- Agrupar clientes por riesgos​
+- Identificar patrones de comportamiento crediticio
 
 ---
 ​
 ## Variables típicas:​
-Ingresos​
-Gastos​
-Historial de pagos​
-Frecuencias de transacciones​
-Endeudamiento​​
+- Ingresos​
+- Gastos​
+- Historial de pagos​
+- Frecuencias de transacciones​
+- Endeudamiento​​
 
 ---
 
