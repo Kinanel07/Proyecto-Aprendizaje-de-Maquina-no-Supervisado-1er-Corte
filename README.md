@@ -1,7 +1,4 @@
 ​# Proyecto-Aprendizaje-de-Maquina-no-Supervisado-1er-Corte
-
-> _Una breve frase que describa el propósito principal del proyecto._
-
 ---
 
 ## 📌 Objetivo
